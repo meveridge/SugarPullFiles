@@ -1,0 +1,17 @@
+[
+    {
+        "id": "goto",
+        "children":
+        [
+            {
+                "caption": "Sugar Pull Files",
+                "mnemonic": "b",
+                "children":
+                [
+                    { "command": "sugar_pull_files", "caption": "Open Files from Pull Request/Commit" },
+                    { "command": "open_file", "args": {"file": "${packages}/User/Preferences.SugarPullFiles-settings"}, "caption": "Settings – User" }
+                ]
+            }
+        ]
+    }
+]

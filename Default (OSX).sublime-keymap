@@ -1,0 +1,5 @@
+[
+    { 
+        "keys": ["super+shift+o"], "command": "sugar_pull_files"
+    }
+]
